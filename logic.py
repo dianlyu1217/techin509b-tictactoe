@@ -1,7 +1,7 @@
 from typing import List
 import logging
 
-logger = logging.getLogger('tictactoc')
+logger = logging.getLogger('tictactoe')
 
 
 def make_empty_board() -> List[List[str]]:

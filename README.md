@@ -1,2 +1,2 @@
 # techin509b-tictactoe
-Starter code for the Tic Tac Toe assignments
+Let's start tctactoe game!!!
