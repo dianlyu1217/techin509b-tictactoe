@@ -1,2 +1,2 @@
 # techin509b-tictactoe
-Let's start tctactoe game!!!
+Let's start tictactoe game!!!
