@@ -1,8 +1,9 @@
 import logic
 import logging
+import time
 
 logging.basicConfig(level=logging.DEBUG,
-                    filename='./logs/tictactoc.log',
+                    filename='./logs/tictactoc_{time}.log'.format(time=int(time.time())),
                     datefmt='%Y/%m/%d %H:%M:%S',
                     format='%(asctime)s - %(levelname)s - %(filename)s- %(lineno)d  - %(message)s')
 logger = logging.getLogger('tictactoc')
